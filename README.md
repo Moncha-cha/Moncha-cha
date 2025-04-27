@@ -9,7 +9,11 @@
 - ⚡ Fun fact: Práci beru vážně, sebe ne vždy. Miluju výzvy, hledám řešení a jdu si za svým – s nadhledem a kávou v ruce.
 
 > 🚀 Každý malý krok je krok vpřed.
+>
+> 
 >-------------------------------------
+>
+> 
 > # 👋 Hi, I'm @Moncha-cha
 
 - 👀 I'm interested in front-end development, especially HTML, CSS, JavaScript, and React.
